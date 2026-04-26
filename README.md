@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**chandanpani196-dot/chandanpani196-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Chandan Pani
 
-Here are some ideas to get you started:
+💻 Full Stack Developer | Java | Spring Boot | React
+🚀 Assistant System Engineer at TCS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 Skills
+
+* Java, Spring Boot, REST APIs
+* React.js, JavaScript
+* MySQL, JPA, Hibernate
+* Automation (PowerShell)
+
+---
+
+## 🚀 Featured Project
+
+### 🎬 CineStream – Movie Streaming Application
+
+🔗 https://github.com/chandanpani196-dot/Cinestream
+
+* Full-stack app using React + Spring Boot
+* JWT Authentication
+* Movie, Review, Chat features
+
+---
+
+## 📫 Contact
+
+📧 [chandanpani196@gmail.com](mailto:chandanpani196@gmail.com)
+
