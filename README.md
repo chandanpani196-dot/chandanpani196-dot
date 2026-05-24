@@ -10,7 +10,7 @@
 ## 🔥 Skills
 
 * Java, Spring Boot, REST APIs
-* React.js, JavaScript
+* React.js, JavaScript, TypeScript
 * MySQL, JPA, Hibernate
 * Automation (PowerShell)
 
